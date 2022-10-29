@@ -74,6 +74,7 @@ p{
     color: hsl(228, 12%, 48%);
     font-size: 14px;
     margin-top: 1.3rem;
+    margin-left: 1rem;
 }
 .btn{
     background-color:  hsl(158, 36%, 37%);
@@ -166,6 +167,7 @@ p{
     .mrp{
         text-decoration: line-through;
         margin-top: 14px;
+        margin-left: 1rem;
         color: hsl(228, 12%, 48%);
         font-size: 13px;
     }
